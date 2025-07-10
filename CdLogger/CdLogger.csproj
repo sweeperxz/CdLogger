@@ -19,7 +19,7 @@
         <Authors>Ваше имя или организацию (автор)</Authors>
         <Description>Простой логгер данных</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <RepositoryUrl>https://github.com/your-repo-url</RepositoryUrl>
+        <RepositoryUrl>https://github.com/sweeperxz/CdLogger</RepositoryUrl>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
